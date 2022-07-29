@@ -1,1 +1,9 @@
 https://github.com/dilenpant/Hands-On-Microservices-with-Spring-Boot-and-Spring-Cloud/tree/master/Chapter03
+
+git clone https://github.com/PacktPublishing/Hands-On-Microservices-with-Spring-Boot-and-Spring-Cloud
+
+export BOOK_HOME=~/Desktop/2022/ms-with-spring-boot-and-spring-cloud/Hands-On-Microservices-with-Spring-Boot-and-Spring-Cloud
+
+cd $BOOK_HOME/Chapter03
+
+
